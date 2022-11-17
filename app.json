@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pnw",
+    "slug": "pnw",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
